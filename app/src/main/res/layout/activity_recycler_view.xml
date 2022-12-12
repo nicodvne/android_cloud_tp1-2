@@ -12,6 +12,7 @@
         android:layout_height="0dp"
         android:layout_marginBottom="5dp"
         android:background="@color/background_page"
+        android:layoutAnimation="@anim/item_animation_layout"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintRight_toRightOf="parent"
